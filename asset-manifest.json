@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navbar-practice/static/css/main.d4c6d65f.css",
+    "main.js": "/navbar-practice/static/js/main.98105979.js",
+    "static/js/787.fbc035cb.chunk.js": "/navbar-practice/static/js/787.fbc035cb.chunk.js",
+    "index.html": "/navbar-practice/index.html",
+    "main.d4c6d65f.css.map": "/navbar-practice/static/css/main.d4c6d65f.css.map",
+    "main.98105979.js.map": "/navbar-practice/static/js/main.98105979.js.map",
+    "787.fbc035cb.chunk.js.map": "/navbar-practice/static/js/787.fbc035cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c6d65f.css",
+    "static/js/main.98105979.js"
+  ]
+}
